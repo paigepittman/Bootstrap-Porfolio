@@ -8,8 +8,9 @@ h2, h3 {
 	background-color: #337ab7;
 	text-align: center;
 	padding-top: 50px;
-	height: 150px;
+	height: 100px;
 	color: white;
+	margin-top: 50px;
 }
 
 .name {
@@ -29,12 +30,12 @@ h2, h3 {
 
 .icons {
 	padding-bottom: 20px;
-	padding-left: 110px;
+	padding-left: 100px;
 	min-width: 300px;
 }
 
-.nav {
-	padding-left: 40px;
+.nav-about {
+	padding-left: 20px;
 	
 	
 
@@ -54,8 +55,8 @@ h2, h3 {
 /* PORTFOLIO SPECIFIC */
 
 .images {
-max-width: 900px;
-margin-left: 400px;
+max-width: 2000px;
+padding-left: 10px;
 	
 }
 
@@ -69,7 +70,7 @@ margin-left: 400px;
 	
 	height: 195px;
 	width: 300px;
-	margin: 20px;
+	margin: 4px;
 
 
 }
@@ -181,10 +182,30 @@ margin-left: 400px;
 	opacity: 1;
 }
 
-.connect {
-	position: relative;
-	margin-top: -300;
+.nav-port {
+	text-align: right;
+	margin-top: 200px;
+	margin-left: 300px;
+	height: 100%
+}
 
+.blank {
+	padding: 40px;
+	height: 200px;
+	width: 308px;
+}
+
+.icons-port{
+	padding-left: 34px;
+	padding-bottom: 100px;
+	margin-top: -221px;
+
+
+}
+
+.name-port {
+	margin-top: 180px;
+	padding-left: 40px;
 }
 
 
