@@ -1,0 +1,192 @@
+h2, h3 {
+	font-family: Georgia;
+	color: #337ab7;
+	
+}
+
+.col-lg-12 {
+	background-color: #337ab7;
+	text-align: center;
+	padding-top: 50px;
+	height: 150px;
+	color: white;
+}
+
+.name {
+	margin-top: 70px;
+	padding-top: 80px;
+	text-align: center;
+	
+}
+
+
+#bio-image {
+	margin-left: 80px;
+	padding-bottom: 60px;
+	border: none;
+	align-content: center;
+}
+
+.icons {
+	padding-bottom: 20px;
+	padding-left: 110px;
+	min-width: 300px;
+}
+
+.nav {
+	padding-left: 40px;
+	
+	
+
+}
+
+.about {
+	text-align: center;
+
+
+}
+
+.bio {
+	padding: 30px;
+	max-width: 400px;
+}
+
+/* PORTFOLIO SPECIFIC */
+
+.images {
+max-width: 900px;
+margin-left: 400px;
+	
+}
+
+.my-portfolio {
+	text-align: center;
+	padding-right: 180px;
+}
+
+.hangman, .rpg, .trivia, .widget, .rock {
+
+	
+	height: 195px;
+	width: 300px;
+	margin: 20px;
+
+
+}
+
+
+
+.hangman {
+	padding-top: 70px;
+	opacity: .7;
+	background-image: url(https://github.com/paigepittman/Basic-Portfolio/blob/master/assets/images/wide-a467935d.jpg?raw=true);
+	background-size: fill;
+}
+
+#hangman {
+	text-align: center;
+	position: relative;
+	left: -15px;
+	top: 70px;
+	color: white;
+	background-color: #337ab7;
+	width: 300px;
+	height: 50px;
+	opacity: 1;
+
+}
+
+.rpg {
+	padding-top: 70px;
+	opacity: .7;
+	background-image: url(https://github.com/paigepittman/Basic-Portfolio/blob/master/assets/images/macbook-portss-bleed.jpg?raw=true);
+	background-size: fill;
+}
+
+
+#rpg {
+	text-align: center;
+	position: relative;
+	left: -15px;
+	top: 70px;
+	color: white;
+	background-color: #337ab7;
+	width: 300px;
+	height: 50px;
+	opacity: 1;
+	
+
+}
+
+
+
+.trivia {
+	padding-top: 70px;
+	opacity: .7;
+	background-image: url(https://github.com/paigepittman/Basic-Portfolio/blob/master/assets/images/iphone-6s-plus-vs-6s1.jpg?raw=true);
+	background-size: fill;
+}
+
+#trivia {
+	text-align: center;
+	position: relative;
+	left: -15px;
+	top: 70px;
+	color: white;
+	background-color: #337ab7;
+	width: 300px;
+	height: 50px;
+	opacity: 1;
+}
+
+.widget {
+	padding-top: : 70px;
+	opacity: .7;
+	background-image: url(https://github.com/paigepittman/Basic-Portfolio/blob/master/assets/images/iphone-6s-plus-vs-6s1.jpg?raw=true);
+	background-size: fill;
+
+}
+
+#widget {
+	text-align: center;
+	position: relative;
+	left: -15px;
+	top: 140px;
+	color: white;
+	background-color: #337ab7;
+	width: 300px;
+	height: 50px;
+	opacity: 1;
+
+}
+
+
+.rock {
+	text-align: center;
+	padding-top: 70px;
+	opacity: .7;
+	background-image: url(https://github.com/paigepittman/Basic-Portfolio/blob/master/assets/images/Best-iPhone-6s-and-6s-Plus-Earbuds.jpg?raw=true);
+	background-size: fill;
+}	
+
+#rock {
+	text-align: center;
+	position: relative;
+	left: -15px;
+	top: 70px;
+	color:white;
+	background-color: #337ab7;
+	width: 300px;
+	height: 50px;
+	opacity: 1;
+}
+
+.connect {
+	position: relative;
+	margin-top: -300;
+
+}
+
+
+
+
